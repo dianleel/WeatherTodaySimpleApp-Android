@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#FFE4E9</color> <!-- Нежный розовый -->
+    <color name="primary_text">#B3005B</color>     <!-- Глубокий розовый для текста -->
+    <color name="secondary_text">#7E7E7E</color>   <!-- Серый для вторичного текста -->
+    <color name="accent_color">#F5A9B8</color>     <!-- Акцентный светло-розовый -->
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather_lab</string>
+    <string name="weather_icon_desc">Иконка текущей погоды</string>
+</resources>
